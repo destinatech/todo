@@ -12,6 +12,12 @@
 
 -- [minidiff(1) aka... Minidiff!](projects/cr.md)
 
+**Infra**
+
+*Provisioning:*
+
+-- [Oracle Cloud](infra/provisioning/oracle-cloud.md)
+
 <!--
 vim: ts=2 sw=2 et fdm=marker :
 -->
