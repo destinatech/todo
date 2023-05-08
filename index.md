@@ -1,5 +1,11 @@
 # / TODO / INDEX
 
+**Infra**
+
+*Provisioning:*
+
+-- [Oracle Cloud](infra/provisioning/oracle-cloud.md)
+
 **Systems**
 
 -- [beef.core.destinatech](systems/beef.md)
@@ -11,12 +17,6 @@
 -- [cr(1) aka Cluster Run](projects/cr.md)
 
 -- [minidiff(1) aka... Minidiff!](projects/cr.md)
-
-**Infra**
-
-*Provisioning:*
-
--- [Oracle Cloud](infra/provisioning/oracle-cloud.md)
 
 <!--
 vim: ts=2 sw=2 et fdm=marker :
