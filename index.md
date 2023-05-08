@@ -1,5 +1,11 @@
 # / TODO / INDEX
 
+**Infra**
+
+*Provisioning:*
+
+-- [Oracle Cloud](infra/provisioning/oracle-cloud.md)
+
 **Systems**
 
 -- [beef.core.destinatech](systems/beef.md)
