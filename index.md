@@ -2,6 +2,8 @@
 
 **Infra**
 
+-- [Clusters](infra/clusters/index.md)
+
 *Provisioning:*
 
 -- [Oracle Cloud](infra/provisioning/oracle-cloud.md)
