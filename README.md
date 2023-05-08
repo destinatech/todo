@@ -2,7 +2,7 @@
 
 To-do lists for various projects, infrastructure, etc.
 
-For the full listing [click here](/destinatech/todo/blob/main/index.md).
+For the full listing [click here](blob/main/index.md).
 
 <!--
 vim: ts=2 sw=2 et fdm=marker :
