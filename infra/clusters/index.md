@@ -1,3 +1,12 @@
+<!--
+
+This doc exists in this repo solely because I like GitHub's workflows and having
+a dedicated repo for a single document doesn't make much sense (yet).  If/when
+the clusters to-do lists and associated bits and pieces move to the internal
+gitea instance, this file will likely be removed.
+
+-->
+
 # / INFRA / CLUSTERS
 
 List of active and planned compute clusters currently in service.
